@@ -1,0 +1,34 @@
+# Environment
+.env
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Node
+node_modules/
+npm-debug.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+config/telegram_config.json
+.claude/keys/hub_private.pem
+
+# Logs
+*.log
+logs/
