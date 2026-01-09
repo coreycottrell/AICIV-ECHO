@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+claude_code_conversation.egg-info/PKG-INFO
+claude_code_conversation.egg-info/SOURCES.txt
+claude_code_conversation.egg-info/dependency_links.txt
+claude_code_conversation.egg-info/requires.txt
+claude_code_conversation.egg-info/top_level.txt
+tests/test_parser.py
+tests/test_utils.py
