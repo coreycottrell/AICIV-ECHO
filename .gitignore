@@ -32,3 +32,6 @@ config/telegram_config.json
 # Logs
 *.log
 logs/
+
+# Comms hub (separate repo)
+aiciv-comms-hub-bootstrap/
